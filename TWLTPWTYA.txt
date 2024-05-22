@@ -2,9 +2,7 @@ title:The Wishlist The Public Won't Tell You About
 description:eroi
 
 // Succession - Inspired From CoolGuy (pve,mnk)
-//notes: Proc Discord and delete adds to build stacks for Redirection *WITHOUT* spending ammo.
-Discord: Enables liberal special ammo usage.
-Redirection: Slightly more work compared to Recombination but can hold more stacks (4 shots of 100% increased damage). tags:pve,mnk
+//notes: Proc Discord and delete adds to build stacks for Redirection *WITHOUT* spending ammo. Discord: Enables liberal special ammo usage. Redirection: Slightly more work compared to Recombination but can hold more stacks (4 shots of 100% increased damage). tags:pve,mnk
 dimwishlist:item=3612338554&perks=839105230,3142289711,3978468247,3201496230
 dimwishlist:item=3612338554&perks=839105230,2420895100,3978468247,3201496230
 dimwishlist:item=3612338554&perks=839105230,1431678320,3978468247,3201496230
@@ -13,9 +11,7 @@ dimwishlist:item=3612338554&perks=1840239774,2420895100,3978468247,3201496230
 dimwishlist:item=3612338554&perks=1840239774,1431678320,3978468247,3201496230
 
 // Succession (but shiny) - Inspired From CoolGuy (pve,mnk)
-//notes: Proc Discord and delete adds to build stacks for Redirection *WITHOUT* spending ammo.
-Discord: Enables liberal special ammo usage.
-Redirection: Slightly more work compared to Recombination but can hold more stacks (4 shots of 100% increased damage). tags:pve,mnk
+//notes: Proc Discord and delete adds to build stacks for Redirection *WITHOUT* spending ammo. Discord: Enables liberal special ammo usage. Redirection: Slightly more work compared to Recombination but can hold more stacks (4 shots of 100% increased damage). tags:pve,mnk
 dimwishlist:item=570866107&perks=839105230,3142289711,3978468247,3201496230
 dimwishlist:item=570866107&perks=839105230,2420895100,3978468247,3201496230
 dimwishlist:item=570866107&perks=839105230,1431678320,3978468247,3201496230
