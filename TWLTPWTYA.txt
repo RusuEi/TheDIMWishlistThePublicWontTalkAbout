@@ -2,7 +2,7 @@ title:The Wishlist The Public Won't Tell You About
 description:eroi
 
 // Succession - Inspired by CoolGuy (pve,mnk)
-//notes: [Rusu - S23] Proc Discord and delete adds to build stacks for Redirection *WITHOUT* spending ammo. Discord: Enables liberal special ammo usage. Redirection: Slightly more work compared to Recombination but can hold more stacks (4 shots of 100% increased damage). (Inspired by CoolGuy) tags:pve,mnk
+//notes: 【Rusu - S23】 Proc Discord and delete adds to build stacks for Redirection *WITHOUT* spending ammo. Discord: Enables liberal special ammo usage. Redirection: Slightly more work compared to Recombination but can hold more stacks (4 shots of 100% increased damage). (Inspired by CoolGuy) tags:pve,mnk
 dimwishlist:item=3612338554&perks=839105230,3142289711,3978468247,3201496230
 dimwishlist:item=3612338554&perks=839105230,2420895100,3978468247,3201496230
 dimwishlist:item=3612338554&perks=839105230,1431678320,3978468247,3201496230
@@ -11,7 +11,7 @@ dimwishlist:item=3612338554&perks=1840239774,2420895100,3978468247,3201496230
 dimwishlist:item=3612338554&perks=1840239774,1431678320,3978468247,3201496230
 
 // Succession (but shiny) - Inspired by CoolGuy (pve,mnk)
-//notes: [Rusu - S23] - Proc Discord and delete adds to build stacks for Redirection *WITHOUT* spending ammo. Discord: Enables liberal special ammo usage. Redirection: Slightly more work compared to Recombination but can hold more stacks (4 shots of 100% increased damage). (Inspired by CoolGuy) tags:pve,mnk
+//notes: 【Rusu - S23】 - Proc Discord and delete adds to build stacks for Redirection *WITHOUT* spending ammo. Discord: Enables liberal special ammo usage. Redirection: Slightly more work compared to Recombination but can hold more stacks (4 shots of 100% increased damage). (Inspired by CoolGuy) tags:pve,mnk
 dimwishlist:item=570866107&perks=839105230,3142289711,3978468247,3201496230
 dimwishlist:item=570866107&perks=839105230,2420895100,3978468247,3201496230
 dimwishlist:item=570866107&perks=839105230,1431678320,3978468247,3201496230
@@ -20,19 +20,19 @@ dimwishlist:item=570866107&perks=1840239774,2420895100,3978468247,3201496230
 dimwishlist:item=570866107&perks=1840239774,1431678320,3978468247,3201496230
 
 // Persuader - (pve,mnk)
-//notes: [Rusu - S23] - Proc Discord for easy and economic add killings that proc Destabilizing Rounds. Acts as an alternative to other void-debuff-procing weapons in a Stylish Executioner build. tags:pve,mnk
+//notes: 【Rusu - S23】 - Proc Discord for easy and economic add killings that proc Destabilizing Rounds. Acts as an alternative to other void-debuff-procing weapons in a Stylish Executioner build. tags:pve,mnk
 dimwishlist:item=781498181&perks=3978468247,2048641572
 
 // Last Foray - (pve,mnk)
-//notes: [Rusu - S23] - Proc Discord for easy and economic add killings, Incandescant for even easier add killings. I am in my Discord phase, that is why this weapon is here also one of the few 72 rpm snipers with this Discord. tags:pve,mnk
+//notes: 【Rusu - S23】 - Proc Discord for easy and economic add killings, Incandescant for even easier add killings. I am in my Discord phase, that is why this weapon is here also one of the few 72 rpm snipers with this Discord. tags:pve,mnk
 dimwishlist:item=1106635211&perks=3978468247,4293542123
 
 // Uzume RR4 - (pve,mnk)
-//notes: [Rusu - S23] - Proc Discord for easy and economic add killings, Incandescant for even easier add killings. ditto Last Foray but 90 rpm. tags:pve,mnk
+//notes: 【Rusu - S23】 - Proc Discord for easy and economic add killings, Incandescant for even easier add killings. ditto Last Foray but 90 rpm. tags:pve,mnk
 dimwishlist:item=2450917538&perks=3978468247,4293542123
 
 // Uzume RR4 Adept - (pve,mnk)
-//notes: [Rusu - S23] - Proc Discord for easy and economic add killings, Incandescant for even easier add killings. ditto Last Foray but 90 rpm. tags:pve,mnk
+//notes: 【Rusu - S23】 - Proc Discord for easy and economic add killings, Incandescant for even easier add killings. ditto Last Foray but 90 rpm. tags:pve,mnk
 dimwishlist:item=1891996599&perks=3978468247,4293542123
 
 
